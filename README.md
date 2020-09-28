@@ -1,4 +1,4 @@
-# Project Proposal
+# Netflix Exploratory Analysis
 
 Team name: Team Green
 
@@ -13,3 +13,5 @@ Our project is to explore Netflix viewing habits over the past 10 years. We'll e
 Possible source for such data: 
 * https://www.kaggle.com/shivamb/netflix-shows
 * Rapid Netflix API
+
+Presentation - https://docs.google.com/presentation/d/1cJbHs0ffUhx2v_p_FJ9vDZBstneIyndr-f-gBSpr3SM/edit#slide=id.p

@@ -14,4 +14,4 @@ Possible source for such data:
 * https://www.kaggle.com/shivamb/netflix-shows
 * Rapid Netflix API
 
-Presentation - https://docs.google.com/presentation/d/1cJbHs0ffUhx2v_p_FJ9vDZBstneIyndr-f-gBSpr3SM/edit#slide=id.p
+To view detailed Presentation, click [here](https://docs.google.com/presentation/d/1cJbHs0ffUhx2v_p_FJ9vDZBstneIyndr-f-gBSpr3SM/edit#slide=id.p)

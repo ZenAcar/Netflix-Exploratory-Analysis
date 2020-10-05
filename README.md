@@ -1,7 +1,5 @@
 # Netflix Exploratory Analysis
 
-# Netflix Exploratory Analysis
-
 Data Sources used:
 * Netflix - [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
 * Female Directors List - [IMDB](https://www.imdb.com/list/ls027192075/)
@@ -16,5 +14,3 @@ Group members:
 * Neelam Baxi
 * Harini Rao
 * Veronica Ratcliff
-
-  
